@@ -1,0 +1,1 @@
+This is the original K-Chat server that I made, with minimal GUI and more of a command line focus. Demonstrates Java server socket networking, string parsing, and string manipulation.
